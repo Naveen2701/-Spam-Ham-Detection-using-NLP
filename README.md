@@ -32,7 +32,7 @@ Two approaches are used for building machine learning classifiers:
 3. Run the Jupyter notebook provided in the repository to execute the preprocessing steps, feature engineering, and machine learning models.
 
 ## Authors
-This project was developed by Naveen KM and Guruakash P.
+This project was developed by [Naveen KM](https://github.com/Naveen2701) and [Guruakash P](https://github.com/guruakash-7788).
 
 ## License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
