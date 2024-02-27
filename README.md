@@ -31,8 +31,8 @@ Two approaches are used for building machine learning classifiers:
 
 3. Run the Jupyter notebook provided in the repository to execute the preprocessing steps, feature engineering, and machine learning models.
 
-## Author
-This project was developed by Naveen KM.
+## Authors
+This project was developed by Naveen KM and Guruakash P.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
